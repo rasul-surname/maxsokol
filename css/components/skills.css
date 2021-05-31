@@ -1,0 +1,44 @@
+.skills {
+	padding-top: 85px;
+	padding-bottom: 110px;
+}
+.skills__title {
+	margin-bottom: 59px;
+}
+.skills__text {
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	color: #070707;
+	margin-bottom: 84px;
+}
+.skills__row {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.skills__item .item__img {
+	margin: 0 auto;
+	margin-bottom: 22px;
+}
+.item__desc {
+	font-family: "Gilroy-Bold", sans-serif;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	color: #828282;
+	margin-bottom: 34px;
+}
+.item__row {
+	display: flex;
+	justify-content: center;
+}
+.item__row > li:not(:last-child) {
+	margin-right: 10px;
+}
+.item__row > li > a {
+	color: #e5e5e5;
+}
+.item__row > li > a.active {
+	color: #000000;
+}

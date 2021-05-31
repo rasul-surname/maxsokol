@@ -1,0 +1,42 @@
+.intro {
+	padding: 87px 0px 104px 0px;
+}
+.intro-line {
+	height: 1px;
+	background-color: #828282;
+	margin-bottom: 32px;
+}
+.intro__row {
+	margin-bottom: 39px;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.intro__title {
+	font-family: "Gilroy-Bold", sans-serif;
+	font-weight: 700;
+	font-size: 47.3392px;
+	line-height: 59px;
+	color: #070707;
+}
+.intro__desc {
+	font-size: 18px;
+	line-height: 22px;
+	color: #070707;
+	margin-bottom: 15px;
+}
+.intro__func {
+	transform: rotate(-90deg);
+	align-self: center;
+	margin-bottom: -20px;
+	font-family: Gilroy-Bold;
+	font-size: 16px;
+	line-height: 20px;
+	color: #828282;
+}
+.intro__func span {
+	color: #070707;
+}
+.intro__bg-mobile {
+	display: none;
+}

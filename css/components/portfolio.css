@@ -1,0 +1,22 @@
+.portfolio {
+	padding-top: 110px;
+	padding-bottom: 4px;
+	background-color: #f6f6f6;
+}
+.portfolio__title {
+	margin-bottom: 57px;
+}
+.portfolio__desc {
+	text-align: center;
+	margin-top: 44px;
+	margin-bottom: 100px;
+	font-family: Gilroy-Medium;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	text-decoration: underline;
+	color: #070707;
+}
+.portfolio__desc:hover {
+	text-decoration: none;
+}

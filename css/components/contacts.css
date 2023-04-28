@@ -25,6 +25,7 @@
 	background-color: #070707;
 	border: none;
 	margin-bottom: 85px;
+	cursor: pointer;
 }
 .social__row {
 	display: flex;

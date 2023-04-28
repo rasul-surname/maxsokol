@@ -16,6 +16,7 @@
 	text-align: center;
 	text-decoration: underline;
 	color: #070707;
+	cursor: pointer;
 }
 .portfolio__desc:hover {
 	text-decoration: none;
